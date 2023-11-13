@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149191406278",
+    "project_id": "tonerapp-6fedf",
+    "storage_bucket": "tonerapp-6fedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149191406278:android:a2e9b4275856c655efddc7",
+        "android_client_info": {
+          "package_name": "com.example.tonerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2i6zHHLbhnJvGOROCjpn5apfZqnyoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
